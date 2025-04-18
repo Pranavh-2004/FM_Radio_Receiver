@@ -2,7 +2,7 @@ import Link from '@docusaurus/Link';
 
 # TEA5767 Arduino Nano FM Radio Receiver
 
-🧪 PESU Sem 4: Project for Embedded Systems Lab
+🧪 PESU Sem 4: Project for Microprocessor and Computer Architecture Course
 
 ---
 
